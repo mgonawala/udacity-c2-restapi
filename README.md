@@ -37,3 +37,10 @@ npm run dev
 
 Developer mode runs off the TypeScript source. Any saves will reset the server and run the latest version of the codebase. 
 
+## Implement salt, hash, compare password with bcrypt library.
+
+```bash
+npm i bcrypt --save
+npm i --save-dev @types/bcrypt
+```
+
