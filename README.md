@@ -44,3 +44,8 @@ npm i bcrypt --save
 npm i --save-dev @types/bcrypt
 ```
 
+### Implementing JWT for authentication/authorization
+
+node library to use is jsonwebtokens. 
+It't sign method will generate a jwt via your configured secret value.
+
